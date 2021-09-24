@@ -1,2 +1,2 @@
 # sudokuSolver
-Console-based sudoku puzzle w/ auto-solve feature in Java
+Console-based sudoku puzzle w/ auto-solve feature. Written in Java.
