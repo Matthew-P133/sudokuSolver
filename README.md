@@ -7,7 +7,7 @@ A simple text-based sudoku puzzle game and solver implemented in Java. The user 
 
 ## Notes
 
-1. Strictly, a valid sudoku has only one solution; this program will also solve a 'sudoku' with more than one soltuion but will only provide one solution.
+1. Strictly, a valid sudoku has only one solution; this program will also solve a 'sudoku' with more than one solution but will only provide one solution.
 2. To change the sudoku simply comment, uncomment, and/or edit the test cases as appropriate.
 
 ## Examples
